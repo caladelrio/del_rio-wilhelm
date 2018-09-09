@@ -4,8 +4,7 @@
 }
 
 body{
-	background:rgba(255,255,255,1);
-	color:rgba(100,26,59,1);
+	background: url(fondo.jpg);
 	font-family: 'Hind Siliguri', sans-serif;
 	font-weight:300;
 }
@@ -19,13 +18,15 @@ h1{
 font-family: 'Cabin Sketch', cursive;
 	color:rgba(252,191,13,0.9);
 	text-align:center;
+	font-size: 60px
 }
 
 h2{
 	letter-spacing:0.02em;
-	color:rgba(255,255,255,0.6);
+	color:rgba(255,255,255,1);
 	padding:0.2em 0;
 	text-align:center;
+	font-size: 20px
 }
 
 h3{
@@ -78,7 +79,7 @@ video{
 	}
 
 .dupla a{
-	color:rgba(255,0,0,0.75);
+	color:rgba(75,127,138,0.75);
 	text-decoration:none;
 	font-weight:700;
 }
