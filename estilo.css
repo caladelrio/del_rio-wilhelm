@@ -16,7 +16,7 @@ h1, h2, h3, h4{
 }
 
 h1{
-font-family: 'Cabin Sketch', cursive;
+font-family: 'Forum', cursive;
 	color:rgba(252,191,13,0.9);
 	text-align:center;
 	font-size: 40px
@@ -80,7 +80,7 @@ video{
 	}
 
 .dupla a{
-	color:rgba(75,127,138,1);
+	color:rgba(252,191,13,1);
 	text-decoration:none;
 	font-weight:700;
 }
