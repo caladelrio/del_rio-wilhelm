@@ -17,7 +17,7 @@ h1, h2, h3, h4{
 
 h1{
 font-family: 'Codystar', cursive;
-	color:rgba(252,191,13,0.9);
+	color:rgba(239,206,12,1);
 	text-align:center;
 	font-size: 60px
 }
@@ -32,9 +32,11 @@ h2{
 
 h3{
 	letter-spacing:0.2em;
-	color:rgba(160,4,4,1);
+	color:rgba(21,173,158,1);
 	padding:2em 0 0.6em 0;
 	text-align:center;
+	font-weight:700;
+	font-size: 30px;
 }
 
 h4{
@@ -93,7 +95,7 @@ video{
 }
 
 .dupla a:hover{
-	color:rgba(252,191,13,1);
+	color:rgba(239,206,12,1);
 	text-decoration:underline;
 }
 
@@ -173,7 +175,7 @@ video{
 }
 
 .item h4{
-	color:rgba(252,191,13,1);
+	color:rgba(239,206,12,1);
 	font-size:1em;
 	letter-spacing:0.025em;
 	margin:5% 5% 3% 5%;
